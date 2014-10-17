@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lgr:home|Door43 (lgr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lgr|d43-lgr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgr/archive/master.zip|d43-lgr.zip]]
+
+**Recent Changes**
+{{changes>ns = lgr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lgr|Ethnologue data]]
+
